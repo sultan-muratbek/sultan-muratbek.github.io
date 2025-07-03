@@ -13,7 +13,7 @@ title                    : "Sultan Muratbek"
 title_separator          : "-"
 name                     : &name "Sultan Muratbek"
 description              : &description "personal description"
-url                      : "sultan-muratbek/sultan-muratbek.github.io
+url                      : "sultan-muratbek.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sultan-muratbek"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "sultan-muratbek3.jpg"
   name             : "Sultan Muratbek"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A third-year CS and Legal Studies major at UC Berkeley"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   uri              : # URL
