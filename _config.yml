@@ -13,7 +13,7 @@ title                    : "Sultan Muratbek"
 title_separator          : "-"
 name                     : &name "Sultan Muratbek"
 description              : &description "personal description"
-url                      : "sultan-muratbek.github.io
+url                      : "sultan-muratbek.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sultan-muratbek"
 
