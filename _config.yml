@@ -13,9 +13,9 @@ title: "Sultan Muratbek"
 title_separator: "-"
 name: &name "Sultan Muratbek"
 description: &description "Third-year CS & Legal Studies major at UC Berkeley, passionate about teaching, hiking, and systems programming."
-url: https://sultanmuratbek.github.io
+url: https://sultan-muratbek.github.io
 baseurl: "" 
-repository: "sultanmuratbek/sultanmuratbek.github.io"
+repository: "sultan-muratbek/sultan-muratbek.github.io"
 
 # Site Author
 author:
