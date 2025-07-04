@@ -25,27 +25,11 @@ author:
   bio: "A third-year CS and Legal Studies major at UC Berkeley"
   location: "Berkeley, CA"
   employer: "UC Berkeley"
-  uri: "https://sultanmuratbek.github.io"    # your personal homepage
+  uri: "https://sultan-muratbek.github.io"    # your personal homepage
   email: "sultan.muratbek@berkeley.edu"
 
-  # Academic profiles
-  academia: ""
-  arxiv: ""
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory: ""
-  orcid: ""    # if you have one, e.g. "https://orcid.org/0000-0002-XXXX-XXXX"
-  semantic: ""
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sultan+Muratbek"
-  researchgate: ""
-  scopus: ""
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
 
   # Social media
   artstation       : # Username
@@ -58,21 +42,8 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
+  linkedin         : "sultancal"
   twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
