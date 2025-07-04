@@ -7,40 +7,37 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Sultan Muratbek"
-title_separator          : "-"
-name                     : &name "Sultan Muratbek"
-description              : &description "personal description"
-url                      : https://academicpages.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+locale: "en-US"
+site_theme: "default"
+title: "Sultan Muratbek"
+title_separator: "-"
+name: &name "Sultan Muratbek"
+description: &description "Third-year CS & Legal Studies major at UC Berkeley, passionate about teaching, hiking, and systems programming."
+url: https://sultanmuratbek.github.io
+baseurl: "" 
+repository: "sultanmuratbek/sultanmuratbek.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
-  avatar           : "bio-photo.jpg"
-  name             : "Sultan Muratbek"
-  pronouns         : "he/him"
-  bio              : "A third-year CS and Legal Studies major at UC Berkeley"
-  location         : "Berkeley, CA"
-  employer         : "UC Berkeley"
-  uri              : # URL
-  email            : "sultan.muratbek@berkeley.edu" 
+  avatar: "bio-photo.jpg"
+  name: "Sultan Muratbek"
+  pronouns: "he/him"
+  bio: "A third-year CS and Legal Studies major at UC Berkeley"
+  location: "Berkeley, CA"
+  employer: "UC Berkeley"
+  uri: "https://sultanmuratbek.github.io"    # your personal homepage
+  email: "sultan.muratbek@berkeley.edu"
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  # Academic profiles
+  academia: ""
+  arxiv: ""
+  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  impactstory: ""
+  orcid: ""    # if you have one, e.g. "https://orcid.org/0000-0002-XXXX-XXXX"
+  semantic: ""
+  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sultan+Muratbek"
+  researchgate: ""
+  scopus: ""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
