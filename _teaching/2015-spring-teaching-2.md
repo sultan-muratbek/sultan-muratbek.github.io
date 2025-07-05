@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "CS 61A Spring 2025"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "UC Berkeley, EECS Department"
 date: 2015-01-01
-location: "City, Country"
+location: "Berkeley, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught two sections of 5 students every week. Held Office Hours, Project Parties and Final Exam Review Sessions.
 
-Heading 1
+Quick Links
 ======
+- [Course Wesbite](https://cs61a.org)
 
-Heading 2
+Sections Information
 ======
+- Tutor: Sultan Muratbek
+- Exam Prep Group 1: Tue 10am - 11am, Warren 101BA
+- Exam Prep Group 2: Wed 3pm - 4pm, Warren 101BA
 
-Heading 3
-======
