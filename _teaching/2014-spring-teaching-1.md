@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CS 61A Summer 2025"
 collection: teaching
-type: "Undergraduate course"
+type: "Structure and Interpretation of Computer Programs"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UC Berkeley, Department"
+date: 2025-06-20
+location: "Berkeley, Country"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
