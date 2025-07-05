@@ -1,7 +1,7 @@
 ---
 title: "CS 61A Spring 2025"
 collection: teaching
-type: "Workshop"
+type: "Structure and Interpretation of Computer Programs"
 permalink: /teaching/2015-spring-teaching-1
 venue: "UC Berkeley, EECS Department"
 date: 2015-01-01
