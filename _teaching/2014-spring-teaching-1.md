@@ -12,9 +12,14 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Quick links
 ======
+- [Attendance Form](https://go.cs61a.org/sultan-att)
+- [Course Wesbite](https://cs61a.org)
 
 Section Information
 ======
+- TA: Sultan Muratbek
+- Lab: Mon/Wed 3:30pm - 5:50pm, Soda 273
+- Discussion: Tue/Thu 3:30pm - 5:50pm, Etcheverry 3107
 
 Discussion Slides
 ======
