@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Computer Science, UC Berkeley, 2027
+* B.A. in Legal Studies, UC Berkeley, 2027
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Head Teaching Assistant for CS 61A
+  * UC Berkeley
+  * Duties includes: Teaching Lab and Discussion sections, holding office hours, managing administrative work
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025: Course Staff Tutor for CS 61A
+  * UC Berkeley
+  * Duties included: Teaching 2 sections of 5 students weekly, holding office hours, projects parties and final exam review sessions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2024: Course Staff Tutor for CS 61A
+  * UC Berkeley
+  * Duties included: Teaching 4 sections of 5 students weekly, holding office hours, projects parties and final exam review sessions
+
+* Fall 2024: Mentor for CS 61C
+  * CSM at UC Berkeley
+  * Duties included: Teaching a section of 7 students bi-weekly on Machine Structures
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- **Programming Languages**  
+  - Python (Flask, NumPy, Pandas)  
+  - Java (Data Structures and Algorithms)  
+  - C / C++ (Systems programming)  
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+- **Teaching & Communication**  
+  - Lecture prep & slide design (LaTeX, Markdown)  
+  - Live coding demonstrations  
+  - Office hours & small-group facilitation  
+  - Written feedback & technical writing
+
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
