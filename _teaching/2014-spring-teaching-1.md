@@ -8,7 +8,7 @@ date: 2025-06-20
 location: "Berkeley, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Excited to meet you all!
 
 Quick links
 ======
@@ -23,3 +23,4 @@ Section Information
 
 Discussion Slides
 ======
+- [All slides](https://go.cs61a.org/sultan-slides)
