@@ -2,7 +2,7 @@
 title: "CS 61A Summer 2025"
 collection: teaching
 type: "Structure and Interpretation of Computer Programs"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2025-summer-teaching
 venue: "UC Berkeley, EECS Department"
 date: 2025-06-20
 location: "Berkeley, Country"
