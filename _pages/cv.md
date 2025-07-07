@@ -31,6 +31,14 @@ Work experience
 * Fall 2024: Mentor for CS 61C
   * CSM at UC Berkeley
   * Duties included: Teaching a section of 7 students bi-weekly on Machine Structures
+
+* Summer 2024: Course Staff Tutor for CS 61A
+  * UC Berkeley
+  * Duties included: Teaching 4 sections of 5 students weekly, holding office hours, projects parties and final exam review sessions, and processing regrade requests
+
+* Spring 2024: Academic Intern for CS 61A
+  * UC Berkeley
+  * Duties included: Assisting weekly lab sections on programming assignments answering student questions, providing a content review and attending pedagogy workshops
   
 Skills
 ======
