@@ -18,7 +18,7 @@ Work experience
 ======
 * Summer 2025: Head Teaching Assistant for CS 61A
   * UC Berkeley
-  * Duties includes: Teaching Lab and Discussion sections, holding office hours, managing administrative work
+  * Duties include: Teaching Lab and Discussion sections, holding office hours, managing administrative work
 
 * Spring 2025: Course Staff Tutor for CS 61A
   * UC Berkeley
