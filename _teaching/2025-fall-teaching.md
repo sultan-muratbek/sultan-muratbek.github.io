@@ -24,4 +24,3 @@ Section Information
 - TA: Sultan Muratbek
 - Lab 1: Mon 4:00pm - 5:30pm, Soda 275/277
 - Lab 2: Tue 3:30pm - 5:00pm, Soda 271/273
-- /Wed 3:30pm - 5:50pm, Soda 273
