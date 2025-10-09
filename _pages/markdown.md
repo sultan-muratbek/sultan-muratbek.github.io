@@ -12,7 +12,7 @@ redirect_from:
 ## Fall 2025
 - **CS 188**: Artificial Intelligence
 - **CS 189**: Machine Learning
-- **CS 262A**: Advanced Topics in Computer Systems
+- **MATH 110**: Abstract Linear Algebra
 - **LS 145**: Law and Economics I
 
 ## Spring 2025
