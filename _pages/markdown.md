@@ -9,9 +9,16 @@ redirect_from:
 
 {% include toc %}
 
+## Spring 2026
+- **CS 168**: Internet: Architecture and Protocols
+- **CS 186**: Database Systems
+- **CS 194/294**: Research in AI Education
+- **LS 138**: The Supreme Court and Public Policy
+- **LS 149**: Law, Technology and Entrepreneurship
+
 ## Fall 2025
 - **CS 188**: Artificial Intelligence
-- **CS 189**: Machine Learning
+- **CS 189/289**: Machine Learning
 - **MATH 110**: Abstract Linear Algebra
 - **LS 145**: Law and Economics I
 
