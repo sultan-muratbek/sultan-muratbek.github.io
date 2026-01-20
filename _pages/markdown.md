@@ -13,7 +13,7 @@ redirect_from:
 - **CS 168**: Internet: Architecture and Protocols
 - **CS 186**: Database Systems
 - **CS 194/294**: Research in AI Education
-- **LS 138**: The Supreme Court and Public Policy
+- **LS 122**: Cybersecurity in Context
 - **LS 149**: Law, Technology and Entrepreneurship
 
 ## Fall 2025
