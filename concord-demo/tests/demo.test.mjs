@@ -95,5 +95,6 @@ test("page exposes accessible tabs, controls, and lazy media", async () => {
   assert.match(html, /id="next-stage"/);
   assert.match(html, /preload="metadata"/);
   assert.match(html, /id="media-fallback"/);
+  assert.match(html, /styles\.css\?v=2/);
   assert.match(css, /\.media-fallback\[hidden\]\s*\{\s*display:\s*none;/);
 });
