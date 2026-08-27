@@ -88,10 +88,12 @@ test("web media is versioned, bounded, and matches its recorded digest", async (
 
 test("page exposes accessible tabs, controls, and lazy media", async () => {
   const html = await readFile(new URL("index.html", demoRoot), "utf8");
+  const css = await readFile(new URL("styles.css", demoRoot), "utf8");
   assert.match(html, /role="tablist"/);
   assert.equal((html.match(/role="tab"/g) || []).length, 3);
   assert.match(html, /id="previous-stage"/);
   assert.match(html, /id="next-stage"/);
   assert.match(html, /preload="metadata"/);
   assert.match(html, /id="media-fallback"/);
+  assert.match(css, /\.media-fallback\[hidden\]\s*\{\s*display:\s*none;/);
 });
