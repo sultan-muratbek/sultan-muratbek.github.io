@@ -12,6 +12,19 @@ function result(planId) {
   return artifact.results.find((row) => row.planId === planId);
 }
 
+function relativeLuminance(hex) {
+  const channels = hex.match(/[0-9a-f]{2}/gi).map((channel) => parseInt(channel, 16) / 255);
+  const [red, green, blue] = channels.map((channel) =>
+    channel <= 0.03928 ? channel / 12.92 : ((channel + 0.055) / 1.055) ** 2.4,
+  );
+  return 0.2126 * red + 0.7152 * green + 0.0722 * blue;
+}
+
+function contrastRatio(first, second) {
+  const luminances = [relativeLuminance(first), relativeLuminance(second)].sort((a, b) => b - a);
+  return (luminances[0] + 0.05) / (luminances[1] + 0.05);
+}
+
 test("artifact contains the three evaluated query alternatives", () => {
   assert.equal(artifact.schemaVersion, 1);
   assert.deepEqual(Object.keys(artifact.plans), ["baseline", "o1", "o2"]);
@@ -95,6 +108,18 @@ test("page exposes accessible tabs, controls, and lazy media", async () => {
   assert.match(html, /id="next-stage"/);
   assert.match(html, /preload="metadata"/);
   assert.match(html, /id="media-fallback"/);
-  assert.match(html, /styles\.css\?v=2/);
+  assert.match(html, /styles\.css\?v=3/);
   assert.match(css, /\.media-fallback\[hidden\]\s*\{\s*display:\s*none;/);
+  for (const color of ["#fffdf8", "#201e1a", "#746f66", "#ded8cb", "#df562d"]) {
+    assert.match(css, new RegExp(color));
+  }
+  assert.match(css, /color-scheme:\s*light/);
+});
+
+test("light theme text colors preserve readable contrast", () => {
+  const background = "fffdf8";
+  for (const foreground of ["201e1a", "746f66", "397468", "bd4525"]) {
+    assert.ok(contrastRatio(background, foreground) >= 4.5);
+  }
+  assert.ok(contrastRatio(background, "df562d") >= 3);
 });
