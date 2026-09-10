@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* July 2025 – Present: Undergraduate Research Assistant, Sky Lab  
-  * UC Berkeley  
-  * Working on multi-agent and AI systems research, including large language model serving and reinforcement learning frameworks.
-    
+* June 2026 – Present: Undergraduate Research Assistant, Database Systems Research
+  * UC Berkeley, advised by Professor Alvin Cheung
+  * Researching database systems, including [Concord](https://concord-db.github.io/), a video relational algebra for cross-modal query optimization.
+
 * Summer 2025: Head Teaching Assistant for CS 61A
   * UC Berkeley
   * Duties include: Teaching Lab and Discussion sections, holding office hours, managing administrative work

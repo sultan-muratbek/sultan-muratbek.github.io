@@ -9,6 +9,15 @@ redirect_from:
 
 {% include toc %}
 
+## Fall 2026
+- **CS 262**\*: Advanced Topics in Computer Systems
+- **CS 182**: Designing, Visualizing and Understanding Deep Neural Networks
+- **CS 164**: Programming Languages and Compilers
+- **CS 194**: Functional Programming and AI-Assisted Application Development
+- **LS 160**: Punishment, Culture, and Society
+
+\* Graduate course
+
 ## Spring 2026
 - **CS 168**: Internet: Architecture and Protocols
 - **CS 186**: Database Systems

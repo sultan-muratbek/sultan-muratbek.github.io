@@ -12,7 +12,7 @@ site_theme: "default"
 title: "Sultan Muratbek"
 title_separator: "-"
 name: &name "Sultan Muratbek"
-description: &description "Third-year CS & Legal Studies major at UC Berkeley, passionate about teaching, hiking, and systems programming."
+description: &description "Senior CS & Legal Studies major at UC Berkeley researching database systems, passionate about teaching, hiking, and systems programming."
 url: https://sultan-muratbek.github.io
 baseurl: "" 
 repository: "sultan-muratbek/sultan-muratbek.github.io"
@@ -22,7 +22,7 @@ author:
   avatar: "sultan-muratbek3.jpg"
   name: "Sultan Muratbek"
   pronouns: "he/him"
-  bio: "A third-year CS and Legal Studies major at UC Berkeley"
+  bio: "A senior CS and Legal Studies major at UC Berkeley, researching database systems"
   location: "Berkeley, CA"
   employer: "UC Berkeley"
   uri: "https://sultan-muratbek.github.io"    # your personal homepage
