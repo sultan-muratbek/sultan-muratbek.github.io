@@ -30,7 +30,7 @@ My recent project, [Concord](https://concord-db.github.io/) (CIDR 2027, co-first
 
 I also work with [Prof. Narges Norouzi](https://eecs.berkeley.edu/~norouzi/) at [BAIR](https://bair.berkeley.edu/) on a lecture-feedback platform, now deployed in six Berkeley courses, that turns slides, transcripts, and interaction signals into insights for instructors.
 
-I love teaching. I have been on the CS 61A course staff since Spring 2024 and have served as Head TA since Summer 2025.
+I love teaching. I have served on the CS 61A course staff for nine semesters, as Head TA since Summer 2025.
 
 <div class="callout" markdown="1">
 **I am applying to Ph.D. programs in Computer Science for Fall 2027.** If our interests overlap, I would love to hear from you.
