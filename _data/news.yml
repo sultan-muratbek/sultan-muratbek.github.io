@@ -4,7 +4,7 @@
   text: "Our paper [Concord](https://concord-db.github.io/) was accepted to **CIDR 2027**!"
 
 - date: "Sep 2026"
-  text: "Concord preprint is on [arXiv](https://arxiv.org/abs/2609.05756), along with an [interactive demo](/concord-demo/)."
+  text: "Concord preprint is on [arXiv](https://arxiv.org/abs/2609.05756), along with an [interactive demo](https://concord-db.github.io/demo/)."
 
 - date: "May 2026"
   text: "Joined the [Sky Computing Lab](https://sky.cs.berkeley.edu/) to work on database systems with [Prof. Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/)."

@@ -35,7 +35,7 @@
     - label: "Project"
       url: "https://concord-db.github.io/"
     - label: "Demo"
-      url: "/concord-demo/"
+      url: "https://concord-db.github.io/demo/"
     - label: "Code"
       url: "https://github.com/chanwutk/mmds"
   bibtex: |-

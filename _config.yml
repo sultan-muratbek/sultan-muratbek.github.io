@@ -49,16 +49,10 @@ exclude:
   - docker-compose.yaml
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - package-lock.json
-  - node_modules
   - README.md
   - CONTRIBUTING.md
   - LICENSE
   - vendor
-  - concord-demo/tests
-  - concord-demo/scripts
-  - concord-demo/README.md
 
 markdown: kramdown
 kramdown:

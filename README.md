@@ -19,8 +19,6 @@ Personal academic homepage, built with Jekyll and served by GitHub Pages.
 | Styling | `assets/css/academic.css` |
 | Page layout | `_layouts/academic.html` |
 
-The Concord demo in `concord-demo/` is a standalone static page served at `/concord-demo/`.
-
 ## Local preview
 
 ```bash
