@@ -1,0 +1,16 @@
+# News items, newest first. `text` is Markdown.
+
+- date: "Oct 2026"
+  text: "Our paper [Concord](https://concord-db.github.io/) was accepted to **CIDR 2027**!"
+
+- date: "Sep 2026"
+  text: "Concord preprint is on [arXiv](https://arxiv.org/abs/2609.05756), along with an [interactive demo](/concord-demo/)."
+
+- date: "May 2026"
+  text: "Joined the [Sky Computing Lab](https://sky.cs.berkeley.edu/) to work on database systems with [Prof. Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/)."
+
+- date: "Jan 2026"
+  text: "Joined [BAIR](https://bair.berkeley.edu/) to build AI-driven lecture feedback tools with [Prof. Narges Norouzi](https://eecs.berkeley.edu/~norouzi/)."
+
+- date: "Jun 2025"
+  text: "Became Head TA for [CS 61A](https://cs61a.org), which serves 1,000+ students per semester."

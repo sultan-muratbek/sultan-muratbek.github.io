@@ -4,18 +4,16 @@ collection: teaching
 type: "Structure and Interpretation of Computer Programs"
 permalink: /teaching/2025-spring-teaching
 venue: "UC Berkeley, EECS Department"
-date: 2015-01-01
+date: 2025-01-21
 location: "Berkeley, California"
 ---
 
 Taught two sections of 5 students every week. Held Office Hours, Project Parties and Final Exam Review Sessions.
 
-Quick Links
-======
-- [Course Wesbite](https://cs61a.org)
+## Quick Links
+- [Course Website](https://cs61a.org)
 
-Sections Information
-======
+## Sections Information
 - Tutor: Sultan Muratbek
 - Exam Prep Group 1: Tue 10am - 11am, Warren 101BA
 - Exam Prep Group 2: Wed 3pm - 4pm, Warren 101BA

@@ -1,12 +1,17 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
-{% include base_path %}
+<p>Section pages for the courses I have taught at UC Berkeley. See the <a href="{{ '/' | relative_url }}#teaching">home page</a> for a full list of roles.</p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul class="entries">
+{%- assign courses = site.teaching | sort: "date" | reverse %}
+{%- for course in courses %}
+  <li class="entry">
+    <span class="what"><a href="{{ course.url | relative_url }}">{{ course.title }}</a></span>
+    <span class="when">{{ course.venue }}</span>
+    <span class="detail">{{ course.type }}</span>
+  </li>
+{%- endfor %}
+</ul>

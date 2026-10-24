@@ -1,0 +1,47 @@
+# Publications, newest first. Rendered on the home page and the CV.
+#
+# Fields:
+#   title, venue (full name), venue_short (badge, e.g. "CIDR 2027"), year
+#   authors: list of {name, url (optional), me: true for yourself, equal: true for equal contribution}
+#   status: optional note shown after the venue, e.g. "To appear", "Under review"
+#   tldr: one-sentence summary
+#   links: list of {label, url}
+#   bibtex: optional, shown behind a toggle
+
+- title: "Concord: A Video Relational Algebra for Cross-Modal Query Optimization"
+  venue: "Conference on Innovative Data Systems Research"
+  venue_short: "CIDR 2027"
+  year: 2027
+  status: "To appear"
+  authors:
+    - name: "Sultan Muratbek"
+      me: true
+      equal: true
+    - name: "Charisse Ivana Yeung"
+      equal: true
+    - name: "Chanwut Kittivorawong"
+      url: "https://chanwutk.github.io/"
+    - name: "Alvin Cheung"
+      url: "https://people.eecs.berkeley.edu/~akcheung/"
+  tldr: >-
+    A nested relational algebra over videos, transcripts, frames, and object tracks, with
+    approximate rewrites that cut multimodal LLM cost on semantic video queries by up to 87%
+    while improving result quality.
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/pdf/2609.05756"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2609.05756"
+    - label: "Project"
+      url: "https://concord-db.github.io/"
+    - label: "Demo"
+      url: "/concord-demo/"
+    - label: "Code"
+      url: "https://github.com/chanwutk/mmds"
+  bibtex: |-
+    @inproceedings{muratbek2027concord,
+      title     = {Concord: A Video Relational Algebra for Cross-Modal Query Optimization},
+      author    = {Muratbek, Sultan and Yeung, Charisse Ivana and Kittivorawong, Chanwut and Cheung, Alvin},
+      booktitle = {Conference on Innovative Data Systems Research (CIDR)},
+      year      = {2027}
+    }

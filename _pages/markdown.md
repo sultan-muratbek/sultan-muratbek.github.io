@@ -1,13 +1,11 @@
 ---
 permalink: /markdown/
 title: "Coursework"
-author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-{% include toc %}
 
 ## Fall 2026
 - **CS 262**\*: Advanced Topics in Computer Systems

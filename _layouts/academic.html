@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}?v=1">
+  <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon-180x180.png' | relative_url }}">
+</head>
+<body>
+  <header class="site-nav">
+    <div class="wrap nav-inner">
+      <a class="nav-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+      <nav aria-label="Main">
+        {%- for item in site.data.navigation.main %}
+        {%- assign item_url = item.url | relative_url %}
+        <a href="{{ item_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+        {%- endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    {%- if page.title and page.permalink != '/' %}
+    <h1 class="page-title">{{ page.title }}</h1>
+    {%- endif %}
+    {{ content }}
+  </main>
+
+  <footer class="wrap site-footer">
+    <span>&copy; {{ site.time | date: "%Y" }} {{ site.author.name }}</span>
+    <span>Last updated {{ site.time | date: "%B %Y" }}</span>
+  </footer>
+</body>
+</html>
