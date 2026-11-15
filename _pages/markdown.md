@@ -6,6 +6,7 @@ redirect_from:
   - /markdown.html
 ---
 
+\* Graduate course
 
 ## Spring 2027 (planned)
 - **CS 185**: Deep Reinforcement Learning, Decision Making, and Control
@@ -20,8 +21,6 @@ redirect_from:
 - **CS 164**: Programming Languages and Compilers
 - **CS 194**: Functional Programming and AI-Assisted Application Development
 - **LS 160**: Punishment, Culture, and Society
-
-\* Graduate course
 
 ## Spring 2026
 - **CS 168**: Internet: Architecture and Protocols
