@@ -7,6 +7,13 @@ redirect_from:
 ---
 
 
+## Spring 2027 (planned)
+- **CS 185**: Deep Reinforcement Learning, Decision Making, and Control
+- **CS 286**\*: Implementation of Database Systems
+- **CS 265**\*: Compiler Optimization and Code Generation
+- **CS 268**\*: Computer Networks
+- **LS 177**: Survey of American Legal and Constitutional History
+
 ## Fall 2026
 - **CS 262**\*: Advanced Topics in Computer Systems
 - **CS 182**: Designing, Visualizing and Understanding Deep Neural Networks
